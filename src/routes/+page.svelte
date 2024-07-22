@@ -14,10 +14,10 @@
 
   @keyframes pulse {
     0%, 100% {
-      border-color: #f07079;
+      border-color: #ffff;
     }
     50% {
-      border-color: #e9878e;
+      border-color: #ffff;
     }
   }
 
